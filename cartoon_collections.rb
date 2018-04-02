@@ -20,6 +20,5 @@ def find_the_cheese(stuff)
     if (cheese_types.include?(x) == true)
       return x
     end
-    end
   end
 end
