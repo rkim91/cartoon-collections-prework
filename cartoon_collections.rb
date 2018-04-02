@@ -22,4 +22,3 @@ def find_the_cheese(stuff)
     end
   end
 end
-
